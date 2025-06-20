@@ -1,4 +1,4 @@
-package com.open_mobile_kit.dynamic_event_bus.base
+package com.open_mobile_kit.dynamic_event_bus_base
 
 import android.util.Log
 
