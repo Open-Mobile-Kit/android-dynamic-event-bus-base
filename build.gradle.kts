@@ -1,12 +1,11 @@
+group = "com.open_mobile_kit"
+version = "1.0.0"
+
 plugins {
     id("com.android.library") version "8.2.2" // or your compatible version
     id("org.jetbrains.kotlin.android") version "2.1.0"
     id("maven-publish") // or your compatible version
 }
-
-
-group = "com.open_mobile_kit"
-version = "1.0.0"
 
 android {
     namespace = "com.open_mobile_kit.dynamic_event_bus_base"
