@@ -1,8 +1,9 @@
 plugins {
-    id("com.android.library")
-    alias(libs.plugins.kotlin.android)
-    id("maven-publish")
+    id("com.android.library") version "8.2.2" // or your compatible version
+    id("org.jetbrains.kotlin.android") version "2.1.0"
+    id 'maven-publish'
 }
+
 
 group = 'com.open_mobile_kit'
 version = '1.0.0'
