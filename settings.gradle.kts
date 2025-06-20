@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Dynamic Event Bus Base"
+rootProject.name = "dynamic_event_bus_base"
 include(":app")

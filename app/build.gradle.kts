@@ -4,8 +4,11 @@ plugins {
     id("maven-publish")
 }
 
+group = 'com.open_mobile_kit'
+version = '1.0.0'
+
 android {
-    namespace = "com.open_mobile_kit.dynamic_event_bus.base"
+    namespace = "com.openmobilekit.dynamic_event_bus_base"
     compileSdk = 35
 
     defaultConfig {
