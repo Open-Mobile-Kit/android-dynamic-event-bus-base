@@ -1,1 +1,1 @@
-rootProject.name = "dynamic_event_bus_base"
+rootProject.name = "android-dynamic-event-bus-base"
